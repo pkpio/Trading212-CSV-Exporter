@@ -210,3 +210,9 @@ if __name__ == '__main__':
     importer = YahooFinanceImporter()
     importer.writeCsv()
 
+    print("All done!")
+    print("----------------------------------------------------------")
+    print("             Start the repo to show support               ")
+    print(" https://github.com/praveendath92/Trading212-CSV-Exporter ")
+    print("----------------------------------------------------------")
+
