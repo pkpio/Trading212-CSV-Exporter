@@ -3,6 +3,8 @@ Exports Trading 212 transactions
 
 ![Tool in action](trading212-transactions.gif)
 
+**If you are not a techy person, checkout https://medium.com/@praveendath92/export-trading212-transactions-as-csv-yahoo-finance-298db9892a43 for detailed instructions and ask for help**
+
 # Setup
 - Update Chrome browser to latest version (tested with version 87)
 - [Download and extract](http://chromedriver.chromium.org/downloads) latest version of selenium webdriver to `driver/`  (tested with version 87)
