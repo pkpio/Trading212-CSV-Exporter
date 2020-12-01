@@ -16,3 +16,5 @@ Exports Trading 212 transactions in CSV format and compatible with Yahoo Finance
 - Update `config.ini` with your credentials and dates
 - Run `run.sh`
 - If you have 2FA enabled, manual enter the code when prompted
+
+**Start this repo if you found this helpful**
