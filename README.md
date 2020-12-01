@@ -1,8 +1,8 @@
-# export-t212
-Exports Trading 212 transactions
+# Trading 212 Csv Exporter
+Exports Trading 212 transactions in CSV format and compatible with Yahoo Finance Portfolio import. 
 
+![Trading212 Exporter](trading212-exporter.png)
 ![Tool in action](trading212-transactions.gif)
-![Tool ](trading212-exporter.png)
 
 **If you are not a techy person, checkout https://medium.com/@praveendath92/export-trading212-transactions-as-csv-yahoo-finance-298db9892a43 for detailed instructions and ask for help**
 
