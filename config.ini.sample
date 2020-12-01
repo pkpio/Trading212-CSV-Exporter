@@ -1,0 +1,11 @@
+# StartDate is inclusive and EndDate is exclusive
+
+[Trading212]
+Email = SET-THIS
+Password = SET-THIS
+StartDate = 2020-01-01
+EndDate = 2020-01-30
+OutputFile = transactions.json
+
+[YahooFinance]
+OutputFile = transactions.csv
