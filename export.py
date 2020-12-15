@@ -212,7 +212,7 @@ if __name__ == '__main__':
 
     print("All done!")
     print("----------------------------------------------------------")
-    print("             Start the repo to show support               ")
+    print("              Star the repo to show support               ")
     print(" https://github.com/praveendath92/Trading212-CSV-Exporter ")
     print("----------------------------------------------------------")
 
