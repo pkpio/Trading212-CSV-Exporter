@@ -1,3 +1,6 @@
+# NOTE
+With the release of the new CSV export feature from Trading212, this tool is now deprecated! If you want to import to 3rd party tools like Yahoo Finance, checkout https://github.com/praveendath92/trading212-csv
+
 # Trading 212 Csv Exporter
 Exports Trading 212 transactions in CSV format and compatible with Yahoo Finance Portfolio import. 
 
